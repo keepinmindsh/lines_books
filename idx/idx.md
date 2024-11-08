@@ -1,0 +1,4 @@
+# Index 
+
+- AI 
+- Python
